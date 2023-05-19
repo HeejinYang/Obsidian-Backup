@@ -1,0 +1,58 @@
+#자바스크립트 #노마드코더 #jsObject
+
+## object
+
+array 는 같은 의미의 값들을 정리, 나열한다
+object는 다른 의미의 값들을 그루핑한다
+값을 속성이름을 통해 설명할수있다
+
+```javascript
+// object 선언, 정의
+const player = {
+    name : "asdf",
+    level:100,
+    hp:300,
+    mp:300,
+    sayHello: function(otherPlayerName){
+        console.log(this.name + " hello to " + otherPlayerName);
+    },
+};
+
+// 출력하기
+console.log(player.name);
+
+// 속성, 값 추가하기
+player.money=999999;
+
+// 출력하기
+console.log(player);
+
+player.sayHello("zxcv");
+```
+
+
+## function
+
+계속 반복해서 사용할 수 있는 코드조각
+
+```javascript
+
+function sayHello(){
+	console.log("hihihi");
+}
+
+sayHello();
+
+function sayHelloTo(name){
+	console.log("hi " + name )
+}
+
+const player = {
+	name: "asdf",
+	sayHello: function(){
+		console.log("player hello");
+	}
+};
+
+player.sayHello();
+```
