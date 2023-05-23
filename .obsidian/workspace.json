@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6c7d51c54a15e783",
+        "id": "6b4eb49017ccac22",
         "type": "tabs",
         "children": [
           {
-            "id": "0b8e47140b4d22af",
+            "id": "ae1c8458b9c8449c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/동서양의 예술과 미학/예술의 기원2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e17a5df77921724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023/5월/3주차/js 난수 직접 공부.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daf0e6e64bea5c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023/5월/3주차/js event.md",
+                "file": "2023/5월/3주차/HTTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/5월/3주차/js 난수 직접 공부.md",
+                "file": "2023/5월/3주차/HTTP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/5월/3주차/js 난수 직접 공부.md",
+                "file": "2023/5월/3주차/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/5월/3주차/js 난수 직접 공부.md"
+                "file": "2023/5월/3주차/HTTP.md"
               }
             }
           }
@@ -172,46 +147,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e17a5df77921724",
+  "active": "ae1c8458b9c8449c",
   "lastOpenFiles": [
-    "2023/5월/3주차/Untitled.md",
-    "2023/동서양의 예술과 미학/예술의 기원.md",
+    "2023/5월/3주차/js createElement, JSON.md",
+    "2023/5월/4주차/js forEach, filter.md",
+    "2023/5월/4주차/py 플라스크, 클래스.md",
+    "2023/5월/4주차/js addEventListener 줄여서 쓰는법.md",
+    "2023/5월/4주차/py import, init.md",
     "2023/동서양의 예술과 미학/예술의 기원2.md",
-    "2023/5월/3주차/js form과 input유효성 검사.md",
-    "chat-gpt/js에서 배열은 객체인가.md",
-    "chat-gpt",
-    "chat gpt/js에서 배열은 객체인가.md",
-    "chat gpt",
-    "picture/Pasted image 20230510150223.png",
-    "picture",
-    "toReview/partial key.md",
-    "toReview",
-    "toStudy/웹소켓이 뭐지.md",
-    "toStudy/네트워크.md",
-    "toStudy/NaN의 타입.md",
-    "toStudy/html에서 script의 위치.md",
-    "toStudy/form태그.md",
-    "toStudy/HTMLCollection, NodeList.md",
-    "toStudy/console.dir과 console.log차이.md",
-    "toStudy",
-    "새 텍스트 문서.txt",
+    "2023/5월/3주차/HTTP.md",
+    "2023/5월/3주차/js 난수 직접 공부.md",
+    "2023/5월/3주차/js 난수 만들기.md",
+    "2023/5월/3주차/js setInterval.md",
+    "2023/5월/3주차/db 정규화.md",
+    "2023/5월/3주차/dbms 복습.md",
     "2023/5월/3주차/노마드 과제4.md",
     "2023/5월/3주차/js localStorage.md",
-    "2023/5월/3주차/dbms 복습.md",
-    "2023/5월/3주차/db 정규화.md",
-    "2023/5월/3주차/js setInterval.md",
-    "2023/5월/3주차/js 난수 만들기.md",
-    "2023/5월/3주차/js 난수 직접 공부.md",
+    "2023/5월/3주차/js form과 input유효성 검사.md",
+    "2023/5월/3주차/js event.md",
+    "2023/5월/3주차/js console 객체.md",
+    "2023/5월/3주차/js grab html by document object.md",
+    "2023/5월/3주차/js conditional.md",
+    "2023/5월/3주차/js object.md",
+    "toStudy/js 중요정보 전역변수 관리법.md",
+    "toStudy/html에서 script의 위치.md",
+    "toStudy/네트워크.md",
+    "toStudy/웹소켓이 뭐지.md",
+    "toStudy/form태그.md",
+    "toStudy/HTMLCollection, NodeList.md",
+    "picture/Pasted image 20230510150223.png",
+    "2023/5월/4주차",
+    "chat-gpt",
+    "chat gpt",
+    "picture",
+    "toReview",
+    "toStudy",
+    "새 텍스트 문서.txt",
     "사진/Pasted image 20230510150223.png",
-    "복습 필요한것/partial key.md",
-    "모르겠는거, 공부할거/html에서 script의 위치.md",
-    "모르겠는거, 공부할거/웹소켓이 뭐지.md",
-    "모르겠는거, 공부할거/네트워크.md",
-    "모르겠는거, 공부할거/form태그.md",
     "2023/동서양의 예술과 미학",
     "챗 gpt에게 질문",
     "Untitled.canvas",
-    "모르겠는거, 공부할거",
-    "2023"
+    "모르겠는거, 공부할거"
   ]
 }
