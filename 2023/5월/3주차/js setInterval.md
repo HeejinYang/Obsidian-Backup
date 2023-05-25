@@ -4,8 +4,8 @@ setTimeout(함수, 밀리초); // 밀리초후 함수가 한번만 실행된다
 Date 오브젝트
 new Date();
 
-padStart(문자열길이, "asdf");
-padEnd(문자열길이, "0"); 0 추가함
+string.padStart(문자열길이, "asdf");
+string.padEnd(문자열길이, "0"); 0 추가함
 문자열에서 쓸수있는 함수다.
 
 parseInt() 문자열을 숫자로 변환
