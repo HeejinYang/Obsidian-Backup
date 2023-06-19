@@ -22,7 +22,7 @@ file.ext # not a comment
 ```
 
 
-- 참고, 출처
+- 출처
 https://jojoldu.tistory.com/307
 https://nochoco-lee.tistory.com/46
 
