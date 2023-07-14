@@ -1,5 +1,5 @@
 map함수가 반환하는게 정확히 뭔지 모르겠다
-iterator를 반환한다는데? #iterator
+iterator를 반환한다는데? #iterator #모르는거 
 
 ```python
 a,b = map(int, input().split())
