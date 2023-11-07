@@ -28,13 +28,19 @@ html내의 style태그에 작성하기
 태그 자체에 작성하기 - 인라인 태그
 
 - box-model
-element의
-마진, 보더, 패딩, 컨텐츠 
+element의 margin, border, padding, content
 
 margin, padding-
 top, right, bottom, left
 
 border width, style(required), color
+
+패딩, 마진은 transparent하다!
+
+
+- margin collapse
+엘리먼트 간에 마진의 top, bottom이 겹칠때는 큰 마진으로 합쳐진다
+right, left말고 top, bottom에만 적용됨
 
 색깔 속성값
 rgb(0,0,0)
@@ -56,6 +62,11 @@ max-width는 화면이 클때에는 max사이즈로 보여주고 화면이 작�
 자동으로 반응형으로 차지하는 영역이 작아진다
 
 width만 설정하면 화면이 작아졌을때 스크롤바가 생긴다
+
+
+box-sizing: border-box;
+width가 설정되어 있고 padding도 설정되어 있을때 width속성값에 맞춰서 사이즈가 조절된다
+
 
 
 
